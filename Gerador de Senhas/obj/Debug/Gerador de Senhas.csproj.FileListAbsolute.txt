@@ -1,0 +1,10 @@
+C:\Users\Fabio\source\repos\Gerador de Senhas\Gerador de Senhas\bin\Debug\Gerador de Senhas.exe.config
+C:\Users\Fabio\source\repos\Gerador de Senhas\Gerador de Senhas\bin\Debug\Gerador de Senhas.exe
+C:\Users\Fabio\source\repos\Gerador de Senhas\Gerador de Senhas\bin\Debug\Gerador de Senhas.pdb
+C:\Users\Fabio\source\repos\Gerador de Senhas\Gerador de Senhas\obj\Debug\Gerador de Senhas.csproj.AssemblyReference.cache
+C:\Users\Fabio\source\repos\Gerador de Senhas\Gerador de Senhas\obj\Debug\Gerador_de_Senhas.Form1.resources
+C:\Users\Fabio\source\repos\Gerador de Senhas\Gerador de Senhas\obj\Debug\Gerador_de_Senhas.Properties.Resources.resources
+C:\Users\Fabio\source\repos\Gerador de Senhas\Gerador de Senhas\obj\Debug\Gerador de Senhas.csproj.GenerateResource.cache
+C:\Users\Fabio\source\repos\Gerador de Senhas\Gerador de Senhas\obj\Debug\Gerador de Senhas.csproj.CoreCompileInputs.cache
+C:\Users\Fabio\source\repos\Gerador de Senhas\Gerador de Senhas\obj\Debug\Gerador de Senhas.exe
+C:\Users\Fabio\source\repos\Gerador de Senhas\Gerador de Senhas\obj\Debug\Gerador de Senhas.pdb
